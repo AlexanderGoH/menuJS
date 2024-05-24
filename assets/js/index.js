@@ -44,6 +44,20 @@ function showMenu(jsonObj) {
         </div>
       `;
 
+      card.querySelector(".more").addEventListener("click", () => {
+        const modal = document.getElementById("modal");
+        const modal_content = document.getElementById("modal-content");
+        modal_content.innerHTML = `
+          <img id="modal-imagen" class="modal-imagen" src="${comida.img}" alt="comida" />
+          <div class="modal-body py-0">
+            <h4 class="modal-titulo" >${comida.nombre}</h4>
+            <p id="modal-descripcion" class="modal-descripcion ">${comida.descripcion}</p>
+            <p id="modal-precio" class="modal-precio">${comida.precio}</p>
+          </div>
+        `;
+        modal.style.display = "block";
+      });
+
       section.classList.add("row", "justify-content-around", "my-5");
       card.classList.add("card");
       section.appendChild(card);
@@ -51,3 +65,16 @@ function showMenu(jsonObj) {
     main.appendChild(section);
   }
 }
+
+const modal = document.getElementById("modal");
+const span = document.getElementsByClassName("close")[0];
+
+span.onclick = () => {
+  modal.style.display = "none";
+};
+
+window.onclick = (event) => {
+  if (event.target == modal) {
+    modal.style.display = "none";
+  }
+};
