@@ -8,6 +8,10 @@ header {
     background-color: palegoldenrod;
 }
 
+header .btn {
+    font-size: 20px;
+}
+
 .btn-light {
     border-color: transparent;
     background-color: transparent;
@@ -22,6 +26,10 @@ header {
     width: 300px;
     margin-block: 20px;
     padding: 0;
+}
+
+.card:hover {
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.5);
 }
 
 .card img {
