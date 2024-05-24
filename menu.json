@@ -1,0 +1,256 @@
+{
+    "menu": [
+        {
+            "categoria": "Desayunos",
+            "comidas": [
+                {
+                    "img": "/assets/img/desayunos/migao.jpg",
+                    "nombre": "Migao de chocolate",
+                    "descripcion": "Migao de chocolate con leche, incluye trozos de galleta, pan y queso.",
+                    "precio": "$6.000"
+                },
+                {
+                    "img": "/assets/img/desayunos/cacerola.jpg",
+                    "nombre": "Huevos en cacerola",
+                    "descripcion": "Huevos servidos en cacerola acompañados de arepa con queso.",
+                    "precio": "$5.000"
+                },
+                {
+                    "img": "/assets/img/desayunos/huevos_tocino.jpg",
+                    "nombre": "Huevos con tocino",
+                    "descripcion": "Huevos revueltos acompañados de tiras de tocino ahumado.",
+                    "precio": "$7.000"
+                },
+                {
+                    "img": "/assets/img/desayunos/calentado.jpeg",
+                    "nombre": "Calentado",
+                    "descripcion": "Mezcla de arroz, frijoles, chorizo y huevo cocinados en sartén.",
+                    "precio": "$12.000"
+                },
+                {
+                    "img": "/assets/img/desayunos/waffles.png",
+                    "nombre": "Waffles",
+                    "descripcion": "Waffles acompañados de helado de vainilla y trozos de manzana.",
+                    "precio": "$11.000"
+                },
+                {
+                    "img": "/assets/img/desayunos/huevos_perico.jpg",
+                    "nombre": "Huevos pericos",
+                    "descripcion": "Huevos revueltos con tomate y cebolla acompañados de pan",
+                    "precio": "$5.500"
+                }
+            ]
+            
+        },
+        {
+            "categoria": "Almuerzos",
+            "comidas": [
+                {
+                    "img": "/assets/img/almuerzos/bandeja_paisa.jpg",
+                    "nombre": "Bandeja paisa",
+                    "descripcion": "Clásica bandeja paisa. Incluye chicharrón, chorizo, carne molida, aguacate, huevo, frijoles, arroz, plátano y arepa.",
+                    "precio": "$25.000"
+                },
+                {
+                    "img": "/assets/img/almuerzos/ajiaco.jpg",
+                    "nombre": "Ajiaco",
+                    "descripcion": "Ajiaco tradicional, incluye pollo, maiz, papa, alcaparras y crema de leche. Servido con arroz y aguacate.",
+                    "precio": "$16.000"
+                },
+                {
+                    "img": "/assets/img/almuerzos/sopa_tomate.jpg",
+                    "nombre": "Sopa de tomate",
+                    "descripcion": "Sopa ligera a base de tomate, y un toque de cebolla y ajo.",
+                    "precio": "$14.500"
+                },
+                {
+                    "img": "/assets/img/almuerzos/arroz_pollo.jpg",
+                    "nombre": "Arroz con pollo",
+                    "descripcion": "Nuestro arroz es una combinación de arroz, pollo, salchicha y verduras.",
+                    "precio": "$20.000"
+                },
+                {
+                    "img": "/assets/img/almuerzos/spaghetti.jpg",
+                    "nombre": "Espaguetis",
+                    "descripcion": "Espaguetis criollos preparados con salsa de tomate y carne.",
+                    "precio": "$17.000"
+                },
+                {
+                    "img": "/assets/img/almuerzos/hamburguesa.jpg",
+                    "nombre": "Hamburguesa",
+                    "descripcion": "Hamburguesa clásica acompañada de lechuga, tomate, tocino y queso cheddar.",
+                    "precio": "$19.500"
+                }
+            ]
+            
+        },
+        {
+            "categoria": "Comidas",
+            "comidas": [
+                {
+                    "img": "/assets/img/almuerzos/bandeja_paisa.jpg",
+                    "nombre": "Bandeja paisa",
+                    "descripcion": "Clásica bandeja paisa. Incluye chicharrón, chorizo, carne molida, aguacate, huevo, frijoles, arroz, plátano y arepa.",
+                    "precio": "$25.000"
+                },
+                {
+                    "img": "/assets/img/almuerzos/ajiaco.jpg",
+                    "nombre": "Ajiaco",
+                    "descripcion": "Ajiaco tradicional, incluye pollo, maiz, papa, alcaparras y crema de leche. Servido con arroz y aguacate.",
+                    "precio": "$16.000"
+                },
+                {
+                    "img": "/assets/img/almuerzos/sopa_tomate.jpg",
+                    "nombre": "Sopa de tomate",
+                    "descripcion": "Sopa ligera a base de tomate, y un toque de cebolla y ajo.",
+                    "precio": "$14.500"
+                },
+                {
+                    "img": "/assets/img/almuerzos/arroz_pollo.jpg",
+                    "nombre": "Arroz con pollo",
+                    "descripcion": "Nuestro arroz es una combinación de arroz, pollo, salchicha y verduras.",
+                    "precio": "$20.000"
+                },
+                {
+                    "img": "/assets/img/almuerzos/spaghetti.jpg",
+                    "nombre": "Espaguetis",
+                    "descripcion": "Espaguetis criollos preparados con salsa de tomate y carne.",
+                    "precio": "$17.000"
+                },
+                {
+                    "img": "/assets/img/almuerzos/hamburguesa.jpg",
+                    "nombre": "Hamburguesa",
+                    "descripcion": "Hamburguesa clásica acompañada de lechuga, tomate, tocino y queso cheddar.",
+                    "precio": "$19.500"
+                }
+            ]
+            
+        },
+        {
+            "categoria": "Entradas",
+            "comidas": [
+                {
+                    "img": "/assets/img/almuerzos/bandeja_paisa.jpg",
+                    "nombre": "Bandeja paisa",
+                    "descripcion": "Clásica bandeja paisa. Incluye chicharrón, chorizo, carne molida, aguacate, huevo, frijoles, arroz, plátano y arepa.",
+                    "precio": "$25.000"
+                },
+                {
+                    "img": "/assets/img/almuerzos/ajiaco.jpg",
+                    "nombre": "Ajiaco",
+                    "descripcion": "Ajiaco tradicional, incluye pollo, maiz, papa, alcaparras y crema de leche. Servido con arroz y aguacate.",
+                    "precio": "$16.000"
+                },
+                {
+                    "img": "/assets/img/almuerzos/sopa_tomate.jpg",
+                    "nombre": "Sopa de tomate",
+                    "descripcion": "Sopa ligera a base de tomate, y un toque de cebolla y ajo.",
+                    "precio": "$14.500"
+                },
+                {
+                    "img": "/assets/img/almuerzos/arroz_pollo.jpg",
+                    "nombre": "Arroz con pollo",
+                    "descripcion": "Nuestro arroz es una combinación de arroz, pollo, salchicha y verduras.",
+                    "precio": "$20.000"
+                },
+                {
+                    "img": "/assets/img/almuerzos/spaghetti.jpg",
+                    "nombre": "Espaguetis",
+                    "descripcion": "Espaguetis criollos preparados con salsa de tomate y carne.",
+                    "precio": "$17.000"
+                },
+                {
+                    "img": "/assets/img/almuerzos/hamburguesa.jpg",
+                    "nombre": "Hamburguesa",
+                    "descripcion": "Hamburguesa clásica acompañada de lechuga, tomate, tocino y queso cheddar.",
+                    "precio": "$19.500"
+                }
+            ]
+            
+        },
+        {
+            "categoria": "Infantil",
+            "comidas": [
+                {
+                    "img": "/assets/img/almuerzos/bandeja_paisa.jpg",
+                    "nombre": "Bandeja paisa",
+                    "descripcion": "Clásica bandeja paisa. Incluye chicharrón, chorizo, carne molida, aguacate, huevo, frijoles, arroz, plátano y arepa.",
+                    "precio": "$25.000"
+                },
+                {
+                    "img": "/assets/img/almuerzos/ajiaco.jpg",
+                    "nombre": "Ajiaco",
+                    "descripcion": "Ajiaco tradicional, incluye pollo, maiz, papa, alcaparras y crema de leche. Servido con arroz y aguacate.",
+                    "precio": "$16.000"
+                },
+                {
+                    "img": "/assets/img/almuerzos/sopa_tomate.jpg",
+                    "nombre": "Sopa de tomate",
+                    "descripcion": "Sopa ligera a base de tomate, y un toque de cebolla y ajo.",
+                    "precio": "$14.500"
+                },
+                {
+                    "img": "/assets/img/almuerzos/arroz_pollo.jpg",
+                    "nombre": "Arroz con pollo",
+                    "descripcion": "Nuestro arroz es una combinación de arroz, pollo, salchicha y verduras.",
+                    "precio": "$20.000"
+                },
+                {
+                    "img": "/assets/img/almuerzos/spaghetti.jpg",
+                    "nombre": "Espaguetis",
+                    "descripcion": "Espaguetis criollos preparados con salsa de tomate y carne.",
+                    "precio": "$17.000"
+                },
+                {
+                    "img": "/assets/img/almuerzos/hamburguesa.jpg",
+                    "nombre": "Hamburguesa",
+                    "descripcion": "Hamburguesa clásica acompañada de lechuga, tomate, tocino y queso cheddar.",
+                    "precio": "$19.500"
+                }
+            ]
+            
+        },
+        {
+            "categoria": "Bebidas",
+            "comidas": [
+                {
+                    "img": "/assets/img/almuerzos/bandeja_paisa.jpg",
+                    "nombre": "Bandeja paisa",
+                    "descripcion": "Clásica bandeja paisa. Incluye chicharrón, chorizo, carne molida, aguacate, huevo, frijoles, arroz, plátano y arepa.",
+                    "precio": "$25.000"
+                },
+                {
+                    "img": "/assets/img/almuerzos/ajiaco.jpg",
+                    "nombre": "Ajiaco",
+                    "descripcion": "Ajiaco tradicional, incluye pollo, maiz, papa, alcaparras y crema de leche. Servido con arroz y aguacate.",
+                    "precio": "$16.000"
+                },
+                {
+                    "img": "/assets/img/almuerzos/sopa_tomate.jpg",
+                    "nombre": "Sopa de tomate",
+                    "descripcion": "Sopa ligera a base de tomate, y un toque de cebolla y ajo.",
+                    "precio": "$14.500"
+                },
+                {
+                    "img": "/assets/img/almuerzos/arroz_pollo.jpg",
+                    "nombre": "Arroz con pollo",
+                    "descripcion": "Nuestro arroz es una combinación de arroz, pollo, salchicha y verduras.",
+                    "precio": "$20.000"
+                },
+                {
+                    "img": "/assets/img/almuerzos/spaghetti.jpg",
+                    "nombre": "Espaguetis",
+                    "descripcion": "Espaguetis criollos preparados con salsa de tomate y carne.",
+                    "precio": "$17.000"
+                },
+                {
+                    "img": "/assets/img/almuerzos/hamburguesa.jpg",
+                    "nombre": "Hamburguesa",
+                    "descripcion": "Hamburguesa clásica acompañada de lechuga, tomate, tocino y queso cheddar.",
+                    "precio": "$19.500"
+                }
+            ]
+            
+        }
+    ]
+}

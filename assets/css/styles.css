@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Jaini+Purva&family=Sedan&display=swap');
+
+body {
+    font-family: "Sedan", serif;
+}
+
+header {
+    background-color: palegoldenrod;
+}
+
+.btn-light {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.btn-light:hover {
+    background-color: transparent;
+    border-color: black;
+}
+
+.card {
+    width: 300px;
+    margin-block: 20px;
+    padding: 0;
+}
+
+.card img {
+    height: 230px;
+    padding: 0.5em;
+    border-radius: 0.7em;
+}
+
+.card-body {
+    display: grid;
+    align-content: space-between;
+}
+
+section h2 {
+    width: 100%;
+}
