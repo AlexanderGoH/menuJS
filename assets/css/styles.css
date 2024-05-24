@@ -30,12 +30,26 @@ header .btn {
 
 .card:hover {
     box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.5);
+    transition: all 0.4s ease;
 }
 
 .card img {
     height: 230px;
     padding: 0.5em;
     border-radius: 0.7em;
+    
+}
+
+.card:hover .more {
+    display: block;
+}
+
+.more {
+    background-color: palegoldenrod;
+    display: none;
+    position: absolute;
+    top: 87%;
+    left: 6%; 
 }
 
 .card-body {
