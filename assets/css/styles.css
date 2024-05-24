@@ -34,7 +34,7 @@ header .btn {
 }
 
 .card img {
-    height: 230px;
+    height: 198px;
     padding: 0.5em;
     border-radius: 0.7em;
     
@@ -59,4 +59,54 @@ header .btn {
 
 section h2 {
     width: 100%;
+}
+
+/* Modal */
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.modal-container {
+    background-color: palegoldenrod;
+    margin: 12% auto;
+    padding: 20px 20px 44px;
+    width: 50%;
+}
+
+.modal-content {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    background-color: transparent;
+    border-color: transparent;
+}
+
+.modal-imagen {
+    height: 100%;
+    width: 100%;
+}
+
+.modal-titulo {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.modal-descripcion {
+    font-size: 20px;
+}
+
+.modal-precio {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.close {
+    cursor: pointer;
 }
