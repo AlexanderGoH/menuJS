@@ -15,7 +15,7 @@ function showMenu(jsonObj) {
   const menu = jsonObj["menu"];
   console.log(menu);
 
-  for (let i = 0; i < menu.length; i++) { //Categoria y array de comidas
+  for (let i = 0; i < menu.length; i++) { // Categoria y array de comidas
     const comidas = menu[i].comidas;
     const section = document.createElement("section");
     const h2Categoria = document.createElement("h2");
@@ -26,7 +26,7 @@ function showMenu(jsonObj) {
     
     section.appendChild(h2Categoria);
 
-    comidas.forEach( comida => {
+    comidas.forEach( comida => { // Cada comida
       const card = document.createElement("div");
 
       card.innerHTML = `
