@@ -226,7 +226,7 @@
                     "precio": "$4.000"
                 },
                 {
-                    "img": "./assets/img/bebidas/cafe.jpg",
+                    "img": "./assets/img/bebidas/cafe.JPG",
                     "nombre": "Café",
                     "descripcion": "Taza de café tradicional colombiano.",
                     "precio": "$3.000"
