@@ -1,6 +1,6 @@
 const request = new XMLHttpRequest();
 
-request.open("GET", "./menu.json");
+request.open("GET", "menu.json");
 request.responseType = "json";
 request.send();
 
